@@ -1,11 +1,16 @@
 _repo: The-Ladies-of-the-White-House-Or-in-the-Home-of-the-Presidents-Being-a-Complete-History-of-th__66909
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66909-h/images/cover.jpg
 creator:
   author:
     agent_name: Holloway, Laura C.
     gutenberg_agent_id: '54021'
     url: http://www.gutenberg.org/2009/agents/54021
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66909#The-Ladies-of-the-White-House-Or-in-the-Home-of-the-Presidents-Being-a-Complete-History-of-th_
 gutenberg_issued: '2021-12-09'
 identifiers:
   gutenberg: '66909'
